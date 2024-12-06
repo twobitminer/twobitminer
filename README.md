@@ -29,6 +29,10 @@
 ## 🌐 Projects
 
 - **PowerCal**: This a script that calculating power usage in kWh. This can be useful in determining the cost of running electrical equipment.
+
+---
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions. Let's build and secure amazing systems together! 🛠️✨
+
 <!--
 **twobitminer/twobitminer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
