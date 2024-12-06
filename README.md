@@ -1,5 +1,7 @@
 # 👋 Hi there! I'm twobitminer
 
+Previously mined cryptocurrency part-time. As a sysadmin, I developed scripts to streamline the mining process.
+
 ---
 
 ### Languages and Tools ⚙️
